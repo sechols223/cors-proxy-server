@@ -6,8 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Samuel Echols",
   "license": "ISC",
+  "engines": {
+    "node": "18.12.0"
+  },
   "dependencies": {
     "cors-anywhere": "^0.4.4"
   }
